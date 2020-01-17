@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../GCN_hots/.idea/GCN_hots.iml" filepath="$PROJECT_DIR$/../GCN_hots/.idea/GCN_hots.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/NGCF4REC.iml" filepath="$PROJECT_DIR$/.idea/NGCF4REC.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../NGCF_item/.idea/NGCF_item.iml" filepath="$PROJECT_DIR$/../NGCF_item/.idea/NGCF_item.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../emb_pretrain/.idea/emb_pretrain.iml" filepath="$PROJECT_DIR$/../emb_pretrain/.idea/emb_pretrain.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../test_model/.idea/test_model.iml" filepath="$PROJECT_DIR$/../test_model/.idea/test_model.iml" />
+    </modules>
+  </component>
+</project>
