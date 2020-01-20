@@ -1,0 +1,1 @@
+this is sgncf, model have 1d cnn 
